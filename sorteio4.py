@@ -1,3 +1,20 @@
+'''
+Desenvolvido por: Karython Gomes
+Data: 01/05/2024
+
+Descrição: O sistema recebe o nome dos canditatos e realiza o sorteio,
+            escolhendo aleatoriamente alguem da lista. Nesta versão já esta includo
+            uma contgem regressiva, a lista de todos os sorteados e é possivel sortear
+            mais de um nome com a mesma lista, alem disso, está implantado a bliblioteca flet
+            com a criação da interface básica
+            
+
+Versão: 4.0
+
+
+Sugestão:
+        - para a proxima versão, melhorar a interface do flet e adicionar novas funcionalidades
+'''
 import flet as ft
 import random
 def app(page: ft.Page):
