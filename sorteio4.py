@@ -21,11 +21,6 @@ def app(page: ft.Page):
     lista_nomes = []
     nome = ft.TextField(label="Digite os nomes que serão sorteados")
 
-    def tecla(t: ft.KeyboardEvent):
-        page.add(
-            ft.Text(f"Tecla pressionada: {i.key}")
-        )
-
     def adicionar(a):
         lista_nomes.append(nome.value)
 
