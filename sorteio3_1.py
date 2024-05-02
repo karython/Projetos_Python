@@ -1,5 +1,5 @@
 '''
-Desenvolvido por: Garoto de Programa Python
+Desenvolvido por: Karython Gomes
 Data: 12/04/2024
 
 Descrição: O sistema recebe o nome dos canditatos e realiza o sorteio,
